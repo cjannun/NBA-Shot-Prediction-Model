@@ -1,5 +1,5 @@
 # NBA-Shot-Prediction-Model
-Neural network pipeline that predicts if a shot is going to be made in the NBA using a decade of shot data,
+Neural network pipeline that predicts outcome of NBA shot attempts.
 
 ## Overview
 
